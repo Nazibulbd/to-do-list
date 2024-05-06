@@ -114,7 +114,7 @@ ul li #edit{
 }
 ul li #edit:hover{
     background: #edeef0;
-    color: green;
+    color: rgb(7, 238, 30);
 }
 /* ul li #delete{
     position: absolute;
@@ -145,7 +145,7 @@ ul li #delete:hover{
 
 input{
     border: none;
-    font-size: 16px;
+    font-size: 17px;
     outline: none;
     flex: 1;
     background: transparent;
@@ -153,10 +153,10 @@ input{
 
 button{
     border:none;
-    background-color: coral;
     font-size: 18px;
-    padding: 2px 4px;
-    border-radius: 40px;
+    padding: 5px 7px;
+    border-radius: 10px;
     color: white;
     margin-left: 5px;
+    background-color: darkgreen;
 }
