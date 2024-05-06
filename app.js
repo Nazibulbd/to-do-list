@@ -60,7 +60,7 @@ function inputHandler(e) {
   
       const inp = document.createElement("input");
       const uBtn = document.createElement("button");
-      uBtn.textContent = "U";
+      uBtn.textContent =  "update";
     // uBtn.innerHTML = `${taskName} <i id="edit" class="fa-solid fa-pen"></i>`
   
       function updateHandler() {
